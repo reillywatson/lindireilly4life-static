@@ -205,31 +205,31 @@ a:hover, a:active {
     border: 1px solid #D9C6B1;
 }
 #story .quote .corners-topright {
-    background: url(../../images/elements/corner-violet.png);
+    background: url(../images/elements/corner-violet.png);
 }
 #story .quote .corners-topleft {
-    background: url(../../images/elements/corner-violet.png);
+    background: url(../images/elements/corner-violet.png);
 }
 #story .quote .corners-bottomright {
-    background: url(../../images/elements/corner-violet2.png);
+    background: url(../images/elements/corner-violet2.png);
 }
 #story .quote .corners-bottomleft {
-    background: url(../../images/elements/corner-violet2.png);
+    background: url(../images/elements/corner-violet2.png);
 }
 .corners-topright {
-    background: url(../../images/elements/corner-darkTwo.png);
+    background: url(../images/elements/corner-darkTwo.png);
 }
 .corners-topleft {
-    background: url(../../images/elements/corner-darkTwo.png);
+    background: url(../images/elements/corner-darkTwo.png);
 }
 .corners-bottomright {
-    background: url(../../images/elements/corner-darkTwo2.png);
+    background: url(../images/elements/corner-darkTwo2.png);
 }
 .corners-bottomleft {
-    background: url(../../images/elements/corner-darkTwo2.png);
+    background: url(../images/elements/corner-darkTwo2.png);
 }
 .pattern, #wedding-events .timeline .column.heart:after {
-	background: #152829 url(../../images/bgs/BG-crisp-paper-ruffles.png);
+	background: #152829 url(../images/bgs/BG-crisp-paper-ruffles.png);
 }
 footer {
     background: #152829;
